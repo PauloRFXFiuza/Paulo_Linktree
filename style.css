@@ -7,7 +7,7 @@
     }
     
     body {
-     background-color: slateblue;
+     background-color: rgba(0, 0, 0, 0.822);
      font-family: 'Trebuchet MS';
      color: white;
      text-align: center;
@@ -18,7 +18,7 @@
      font-size: 20px;
      border-radius: 10px;
      padding: 10px;
-     display: block;
+     display: square;
      text-align: center;
      margin: 10px;
      color: slateblue;
